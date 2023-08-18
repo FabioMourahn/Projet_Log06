@@ -6,7 +6,13 @@
 
 # Desenvolvimento de Projeto nº06  🏁 inicío de desenvolvimento no dia 1 de setembro
 > # Grupo:
-- [ ] selecionar equipe pendente
+- NOME
+- NOME
+- NOME
+- NOME
+- NOME
+ 
+- [ ] Criação de grupo penderte
 
 <div align="center">
 
