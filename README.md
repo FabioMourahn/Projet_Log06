@@ -20,5 +20,5 @@
 # 🧾
 - [ ] SPRINT 1 | Conceituação e dedução do Case
 - [ ] SPRINT 2 | Planejamento e rascunho de processos 
-- [ ] SPRINT 3 | Andamento de processso e previa de conslusão 
+- [ ] SPRINT 3 | Andamento de processso e previa de conslusão
 - [ ] SPRINT 4 | Solução aplicada e finalizada
