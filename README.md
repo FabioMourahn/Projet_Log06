@@ -21,7 +21,7 @@
 </div>
 
 > # OBJETIVO
-### Aplicar conteúdos acumulados durante o curso condensá-los, afim de solucionar o problema proposto
+### Aplicar conteúdos desenvolvidos durante o curso e encrementar no problema, afim de solucionar a questão proposta.
 > # ETAPAS
 # 🧾
 - [ ] SPRINT 1 | Conceituação e dedução do Case
