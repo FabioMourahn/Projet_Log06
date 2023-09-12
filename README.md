@@ -7,44 +7,57 @@
 </div>
 
 # Desenvolvimento de Projeto 6° Semestre
-> # Grupo:
-- Ana Caroline Gambale
-- Nicolas 
-- Fabio Augusto de Moura
-- William
-- Brandon Matheus
-- Lucas 
- 
 
-<div align="center">
+# EMPRESA UNIVERSITÁRIA FATEC SJC L.A.W - Fidelity, Nice results, Better method.
+
+> # Grupo:
+|    Função     | Nome                                  |                                                                                                                                                      Contatos                                                                                                                                                   |
+| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Membro |   ANA CAROLINE GAMBALE |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-carolina-lara-gambale-30b150231)             |
+| Membro | WILLIAM  |      ![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)   |
+| Membro | NICOLAS   |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/fábio-moura-715764213)      |
+| Membro | LUCAS MONTI PERES|         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-monti-peres-100109207/)         |
+| Membro |BRANDON DE ASSIZ R.MATHEUS| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-matheus-47992b1bb)  |
+| Membro |FABIO A. DE MOURA |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/fábio-moura-715764213) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/FabioMourahn)|
+
+<div align="right">
 
 ![Meeting Customizable Cartoon Illustrations _ Bro Style](https://github.com/FabioMourahn/Projet_Log06/assets/142456922/854af7b9-b898-4a8a-b777-e7d808e21e3a)
 
 </div>
 
 > # OBJETIVO
-Este projeto tem como objetivo analisar e filtrar dados afim de minimizar custos da situação do cliente:
+## Este projeto tem como objetivo analisar e filtrar dados afim de minimizar custos da situação do cliente:
 * Centralizar os trabalhos e projetos;
 * Organizar e estruturar as informações;
 * Versionar e controlar as alterações;
 * Facilitar o compartilhamento e feedback;
 * Desenvolver habilidades técnicas.
+* Atender ao problema proposto
+* solucionar Situação da CASE
 
 
 > # ETAPAS
 # 🧾
+------------------------------------------------------------------
+- [ ] SPRINT BETA ZERO
+- [ ] Definir Cargos do team
+- [ ] Criar base no JIRA
+- [ ] Criar Base de informação via GitHub
+- [ ] Integrar o time no objetivo incial e final
+-------------------------------------------------------------------
 - [ ] SPRINT 1 | Conceituação e dedução do Case
 - [ ] Defina o propósito do template;
 - [ ] Identifique os elementos principais;
 - [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
+- [ ] Demostrar prévia mais precisa possível:
 - [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
-- [ ] SPRINT 2 | Planejamento e rascunho de processos 
+-------------------------------------------------------------------
+- [ ] SPRINT 2 | Planejamento e rascunho de processos
+-------------------------------------------------------------------
 - [ ] SPRINT 3 | Andamento de processso e previa de conslusão
+-------------------------------------------------------------------
 - [ ] SPRINT 4 | Solução aplicada e finalizada
 
 - Continued
