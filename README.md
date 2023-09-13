@@ -54,6 +54,9 @@
 - [ ] Definir Cargos do team
 - [ ] Criar base no JIRA
 - [ ] Criar Base de informação via GitHub
+- [ ] Relatório de atividades
+- [ ] Criar data de feedback interno do grupo
+- [ ] Reuniões agendadas semanalmente
 - [ ] Integrar o time no objetivo incial e final
 -------------------------------------------------------------------
 - [ ] SPRINT 1 | Conceituação e dedução do Case
