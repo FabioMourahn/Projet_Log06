@@ -35,10 +35,20 @@
 * Desenvolver habilidades técnicas.
 * Atender ao problema proposto
 * solucionar Situação da CASE
+------------------------------------------------------------------
+  
+> # REQUISITOS FUNCIONAIS OBRIGATÓRIOS DO PROJETO
+* Uma estrutura de banco de dados relacional
 
+* Uma tela de BI mostre a produtividade mensal dos veículos (relação entre outputs e inputs)
 
-> # ETAPAS
-# 🧾
+* Uma tela BI com evolução dos custos por km de cada rota, filtrando por fábricas
+
+* Uma tela de BI mostre a produtividade mensal dos veículos (relação entre outputs e inputs)
+
+------------------------------------------------------------------
+
+> # ETAPAS DE ENTREGA🧾
 ------------------------------------------------------------------
 - [ ] SPRINT BETA ZERO
 - [ ] Definir Cargos do team
