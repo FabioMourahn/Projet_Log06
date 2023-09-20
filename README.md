@@ -22,7 +22,18 @@
 | Scrum Member | LUCAS MONTI PERES|         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-monti-peres-100109207/)  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasMontiPeres)|       |
 | Scrum Member |BRANDON DE ASSIS R. MATHEUS| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-matheus-47992b1bb)[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Brandon-Matheus)|  |
 
-INSERIR SUMARIO ATENÇÃO
+-----------------------------------------------------------
+
+# SUMÁRIO:
+
+> ### Objetivo
+> ### Requisitos Funcioanis 
+> ### Cronograma
+> ### Etapas de Entrega
+> ### Regras de Negócio
+> ### Competências Desenvolvidas
+
+------------------------------------------------------------
 
 </div>
 
@@ -53,14 +64,16 @@ INSERIR SUMARIO ATENÇÃO
 * Uma tela de BI mostre a produtividade mensal dos veículos (relação entre outputs e inputs)
 
 <div align="center">
+
+> # Cronograma:
  
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01 | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02|  dd/mm/aaaa| em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| dd/mm/aaaa | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|04| dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
+|00 bet | 27/09/2023 | em andamento| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|01 | 18/10/2023 | conceituando| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|02|  dd/mm/aaaa| a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|03| dd/mm/aaaa | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|04| dd/mm/aaaa | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções|dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 </div>
@@ -70,12 +83,12 @@ Sprint | Previsão | Status| Histórico|
 > # ETAPAS DE ENTREGA🧾
 ------------------------------------------------------------------
 - [ ] SPRINT BETA ZERO
-- [ ] Definir Cargos do team
+- [X] Definir Cargos do team
 - [ ] Criar base no JIRA
 - [ ] Criar Base de informação via GitHub
 - [ ] Relatório de atividades
-- [ ] Criar data de feedback interno do grupo
-- [ ] Reuniões agendadas semanalmente
+- [X] Criar data de feedback interno do grupo
+- [X] Reuniões agendadas semanalmente
 - [ ] Integrar o time no objetivo incial e final
 -------------------------------------------------------------------
 - [ ] SPRINT 1 | Conceituação e dedução do Case
