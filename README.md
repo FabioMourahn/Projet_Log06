@@ -4,11 +4,13 @@
  ![Financial analytics Illustration](https://github.com/FabioMourahn/Projet_Log06/assets/142456922/734bf3f0-4d84-4c72-ae54-7084036d8a37)
 
 
-</div>
 
 # TRABALHO DE GRADUAÇÃO 6° Semestre
 
-# EMPRESA UNIVERSITÁRIA FATEC SJC L.A.W - Fidelity, Nice results, Better method.
+
+# EMPRESA SJC L.A.W - Fidelity, Nice results, Better method.
+
+</div>
 
 <div align="center">
 
