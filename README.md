@@ -71,10 +71,9 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |00 bet | 27/09/2023 | em andamento| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |01 | 18/10/2023 | conceituando| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02|  dd/mm/aaaa| a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| dd/mm/aaaa | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|04| dd/mm/aaaa | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
-|Feira de Soluções|dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|02|  07/11/2023| a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|03| 28/11/2023 | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 </div>
 
@@ -82,31 +81,34 @@ Sprint | Previsão | Status| Histórico|
 
 > # ETAPAS DE ENTREGA🧾
 ------------------------------------------------------------------
-- [ ] SPRINT BETA ZERO
-- [X] Definir Cargos do team
-- [ ] Criar base no JIRA
-- [ ] Criar Base de informação via GitHub
-- [ ] Relatório de atividades
-- [X] Criar data de feedback interno do grupo
-- [X] Reuniões agendadas semanalmente
-- [ ] Integrar o time no objetivo incial e final
+- [x] SPRINT BETA ZERO
+- [x] Backlog do Produto
+- [x] Github Estruturado
+- [x] Jira Estruturado
+- [X] Atribuição de Atividades do Sprint 1
 -------------------------------------------------------------------
 - [ ] SPRINT 1 | Conceituação e dedução do Case
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Demostrar prévia mais precisa possível:
-- [ ] Documente instruções de uso;
-- [ ] Finalize e aprovação.
+- [ ] Conversação de Planilhas
+- [ ] Mapeamento de Relação de Tabelas
+- [ ] Análise Bruta dos Dados
+- [ ] Compilado dos Dados no Power BI
+- [ ] Demonstração da Plataforma de Consulta de Dados
+- [ ] Atualizar GitHub
+- [ ] Atualizar Jira
 -------------------------------------------------------------------
 - [ ] SPRINT 2 | Planejamento e rascunho de processos
+- [ ] Aprendizagem do Banco de Dados
+- [ ] Construção do Banco de Dados
+- [ ] Construção de Minimização dos Custos de Transporte
+- [ ] Atualizar Git Hub
+- [ ] Atualizar Jira
 -------------------------------------------------------------------
 - [ ] SPRINT 3 | Andamento de processso e previa de conslusão
+- [ ] Conceituar Resultados
+- [ ] Dashboard Finalizado
 -------------------------------------------------------------------
-- [ ] SPRINT 4 | Solução aplicada e finalizada
 
  Regras de Negócio
-- 
 
 Requisitos funcionais 
 - Conteúdo da apresentação   
