@@ -89,14 +89,24 @@ Sprint | Previsão | Status| Histórico|
 - [x] Jira Estruturado
 - [X] Atribuição de Atividades do Sprint 1
 -------------------------------------------------------------------
-- [ ] SPRINT 1 | Conceituação e dedução do Case
-- [ ] Conversação de Planilhas
-- [ ] Mapeamento de Relação de Tabelas
-- [ ] Análise Bruta dos Dados
-- [ ] Compilado dos Dados no Power BI
-- [ ] Demonstração da Plataforma de Consulta de Dados
-- [ ] Atualizar GitHub
-- [ ] Atualizar Jira
+- [X] SPRINT 1 | Conceituação e dedução do Case
+- [X] Conversação de Planilhas
+- [X] Mapeamento de Relação de Tabelas
+- [X] Análise Bruta dos Dados
+- [X] Compilado dos Dados no Power BI
+- [X] Demonstração da Plataforma de Consulta de Dados
+- [X] Atualizar GitHub
+- [X] Atualizar Jira
+
+
+# Protótipo de Power Bi KPI's para análise
+
+<div align="center">
+
+![WhatsApp Image 2023-10-18 at 19 19 34](https://github.com/FabioMourahn/Projet_Log06/assets/142456922/4a497340-303f-4d97-9fa4-1f655b65bb61)
+
+</div>
+
 -------------------------------------------------------------------
 - [ ] SPRINT 2 | Planejamento e rascunho de processos
 - [ ] Aprendizagem do Banco de Dados
