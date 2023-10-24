@@ -71,12 +71,11 @@
  
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|00 bet | 27/09/2023 | concluído| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01 | 18/10/2023 | concluído| [Ver Relatório](https://github.com/FabioMourahn/Projet_Log06/blob/main/SPRINT%201%20-%20PRINCIPAL.pbix) | 
-|02|  07/11/2023| em andamento |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| 28/11/2023 | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-
+|00 bet | 27/09/2023 | concluído| 
+|01 | 18/10/2023 | concluído|
+|02|  07/11/2023| em andamento | 
+|03| 28/11/2023 | a fazer |
+|Feira de Soluções|12/12/2023 |a fazer |
 </div>
 
 ------------------------------------------------------------------
