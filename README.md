@@ -70,7 +70,7 @@
 > # Cronograma:
  
 Sprint | Previsão | Status| 
-|------|--------|------|--------|
+|------|--------|------|
 |00 bet | 27/09/2023 | concluído| 
 |01 | 18/10/2023 | concluído|
 |02|  07/11/2023| em andamento | 
