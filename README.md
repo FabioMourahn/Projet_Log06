@@ -69,7 +69,7 @@
 
 > # Cronograma:
  
-Sprint | Previsão | Status| Histórico|
+Sprint | Previsão | Status| 
 |------|--------|------|--------|
 |00 bet | 27/09/2023 | concluído| 
 |01 | 18/10/2023 | concluído|
