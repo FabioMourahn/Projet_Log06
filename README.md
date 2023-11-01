@@ -108,9 +108,8 @@ Sprint | Previsão | Status|
 
 -------------------------------------------------------------------
 - [ ] SPRINT 2 | Planejamento e rascunho de processos
-- [ ] Aprendizagem do Banco de Dados
-- [ ] Construção do Banco de Dados
-- [ ] Construção de Minimização dos Custos de Transporte
+- [ ] Atualização dos Dados Power BI
+- [ ] Atualizar Planilha de base de Dados
 - [ ] Atualizar Git Hub
 - [ ] Atualizar Jira
 -------------------------------------------------------------------
