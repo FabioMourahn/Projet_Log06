@@ -118,7 +118,13 @@ Sprint | Previsão | Status|
 
 <div align="center">
 
-![WhatsApp Image 2023-11-07 at 22 39 37](https://github.com/FabioMourahn/Projet_Log06/assets/142456922/4e868ce6-d61e-4cb9-b2e6-bdd26c3d790e)
+!![WhatsApp Image 2023-11-08 at 19 12 12](https://github.com/FabioMourahn/Projet_Log06/assets/142457062/9a386517-d868-4a93-9eee-967f86b8e70a)
+
+<div align="center">
+
+![WhatsApp Image 2023-11-08 at 19 11 38](https://github.com/FabioMourahn/Projet_Log06/assets/142457062/1abf055a-29d1-43cd-a288-10b11f1c8552)
+
+
 
 ![BI video](https://fatecspgov-my.sharepoint.com/:v:/r/personal/fabio_moura4_fatec_sp_gov_br/Documents/km_20231108_1080p_60f_20231108_170121.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=cfxCGr)
 
