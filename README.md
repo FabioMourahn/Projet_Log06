@@ -120,7 +120,7 @@ Sprint | Previsão | Status|
 
 ![WhatsApp Image 2023-11-07 at 22 39 37](https://github.com/FabioMourahn/Projet_Log06/assets/142456922/4e868ce6-d61e-4cb9-b2e6-bdd26c3d790e)
 
-![video](https://drive.google.com/file/d/1Iuy2toaOAcOdA2KdB5HvDsqx5aaazaU1/view?usp=drive_link)
+![BI video](https://fatecspgov-my.sharepoint.com/:v:/r/personal/fabio_moura4_fatec_sp_gov_br/Documents/km_20231108_1080p_60f_20231108_170121.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=cfxCGr)
 
 </div>
 
