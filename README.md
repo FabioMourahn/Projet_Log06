@@ -73,9 +73,9 @@ Sprint | Previsão | Status|
 |------|--------|------|
 |00 bet | 27/09/2023 | concluído| 
 |01 | 18/10/2023 | concluído|
-|02|  07/11/2023| em andamento | 
-|03| 28/11/2023 | a fazer |
-|Feira de Soluções|12/12/2023 |a fazer |
+|02|  07/11/2023| concluído | 
+|03| 28/11/2023 | em andamento |
+|Feira de Soluções|12/12/2023 | evento |
 </div>
 
 ------------------------------------------------------------------
@@ -107,11 +107,21 @@ Sprint | Previsão | Status|
 </div>
 
 -------------------------------------------------------------------
-- [ ] SPRINT 2 | Planejamento e rascunho de processos
-- [ ] Atualização dos Dados Power BI
-- [ ] Atualizar Planilha de base de Dados
-- [ ] Atualizar Git Hub
-- [ ] Atualizar Jira
+- [x] SPRINT 2 | Planejamento e rascunho de processos
+- [x] Atualização dos Dados Power BI
+- [x] Atualizar Planilha de base de Dados
+- [x] Atualizar Git Hub
+- [x] Atualizar Jira
+- [x] Base para implementação de dados via Phyton
+
+# Protótipo 2.0 Power Bi KPI's para análise
+
+<div align="center">
+
+![WhatsApp Image 2023-11-07 at 22 39 37](https://github.com/FabioMourahn/Projet_Log06/assets/142456922/4e868ce6-d61e-4cb9-b2e6-bdd26c3d790e)
+
+</div>
+
 -------------------------------------------------------------------
 - [ ] SPRINT 3 | Andamento de processso e previa de conslusão
 - [ ] Conceituar Resultados
