@@ -14,16 +14,6 @@
 
 <div align="center">
 
-> # Grupo:
-|    Função     | Nome                                  |                                                                                                                                                      Contatos                                                                                                                                                   |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner  |   ANA CAROLINE GAMBALE |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-carolina-lara-gambale-30b150231) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CarolGambale)|            |
-| Scrum Master |FABIO A. DE MOURA |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/fábio-moura-715764213) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/FabioMourahn)|
-| Scrum Member | WILLIAM APARECIDO DA SILVA SOARES| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/william-soares-0173b8b5/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/WilliamSoares91)|
-| Scrum Member| NICOLAS HENRIQUE V. MACHADO |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-vieira-b90a00208) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/FabioMourahn)||
-| Scrum Member | LUCAS MONTI PERES|         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-monti-peres-100109207/)  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasMontiPeres)|       |
-| Scrum Member |BRANDON DE ASSIS R. MATHEUS| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-matheus-47992b1bb)[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Brandon-Matheus)|  |
-
 -----------------------------------------------------------
 
 # SUMÁRIO:
@@ -34,6 +24,7 @@
 > ### Etapas de Entrega
 > ### Regras de Negócio
 > ### Competências Desenvolvidas
+> ### Desenvolvedores
 
 ------------------------------------------------------------
 
@@ -74,7 +65,7 @@ Sprint | Previsão | Status|
 |00 bet | 27/09/2023 | concluído| 
 |01 | 18/10/2023 | concluído|
 |02|  07/11/2023| concluído | 
-|03| 28/11/2023 | em andamento |
+|03| 28/11/2023 | concluído |
 |Feira de Soluções|12/12/2023 | evento |
 </div>
 
@@ -124,34 +115,38 @@ Sprint | Previsão | Status|
 
 ![WhatsApp Image 2023-11-08 at 19 11 38](https://github.com/FabioMourahn/Projet_Log06/assets/142457062/1abf055a-29d1-43cd-a288-10b11f1c8552)
 
-
-
 </div>
 
+<div align="left">
+ 
 -------------------------------------------------------------------
 - [ ] SPRINT 3 | Andamento de processso e previa de conslusão
 - [ ] Conceituar Resultados
 - [ ] Dashboard Finalizado
 -------------------------------------------------------------------
 
- Regras de Negócio
+</div>
+
+<div align="left">
+
+Regras de Negócio
 
 Requisitos funcionais 
 - Conteúdo da apresentação   
 - Relatórios 
 - Experiência do usuário ao oferecer algo mais (UX)
 
-
 Requisitos não funcionais
 - Usar tecnologias especifícas/apoio/tecnológicas
 - Metodologias ágil
 - Power BI / Jira / Canvas
 
-
+</div>
+  
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
-<details>
+
 <summary>Hard Skills desenvolvidas</summary>
 
 | Tecnologia/Metodologia | Classificação |
@@ -163,10 +158,10 @@ Requisitos não funcionais
 | Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
-</details>
+
 
 ## Soft Skill (saber comportamental)
-<details>
+
 <summary>Soft Skills desenvolvidas</summary>
 
 | Habilidades | Classificação |
@@ -178,6 +173,18 @@ Requisitos não funcionais
 | Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
-</details>
+<div align="center">
+
+> # Desenvolvedores:
+|    Função     | Nome                                  |                                                                                                                                                      Contatos                                                                                                                                                   |
+| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Product Owner  |   ANA CAROLINE GAMBALE |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-carolina-lara-gambale-30b150231) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CarolGambale)|            |
+| Scrum Master |FABIO A. DE MOURA |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/fábio-moura-715764213) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/FabioMourahn)|
+| Scrum Member | WILLIAM APARECIDO DA SILVA SOARES| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/william-soares-0173b8b5/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/WilliamSoares91)|
+| Scrum Member| NICOLAS HENRIQUE V. MACHADO |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-vieira-b90a00208) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/FabioMourahn)||
+| Scrum Member | LUCAS MONTI PERES|         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-monti-peres-100109207/)  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasMontiPeres)|       |
+| Scrum Member |BRANDON DE ASSIS R. MATHEUS| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-matheus-47992b1bb)[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Brandon-Matheus)|  |
+
+</div>
 
 
