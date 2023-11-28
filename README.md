@@ -151,7 +151,7 @@ https://github.com/FabioMourahn/Projet_Log06/assets/142456922/3b57b705-5d9e-4847
 
 <div align="left">
 
-Regras de Negócio
+# REGRAS DE NEGÓCIO
 
 Requisitos funcionais 
 - Conteúdo da apresentação   
@@ -197,7 +197,7 @@ Requisitos não funcionais
 
 <div align="center">
 
-> # Desenvolvedores:
+> # DESENVOLVEDORES:
 |    Função     | Nome                                  |                                                                                                                                                      Contatos                                                                                                                                                   |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner  |   ANA CAROLINE GAMBALE |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-carolina-lara-gambale-30b150231) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CarolGambale)|            |
@@ -213,6 +213,6 @@ Requisitos não funcionais
 
 <div align="center">
 
-![Netas Academy](https://github.com/FabioMourahn/Projet_Log06/assets/142456922/be830290-02e2-484e-a970-cec6e9565f81)
+![4b145f_fd0f5825d3b74475bb509fc6dd3f92e8](https://github.com/FabioMourahn/Projet_Log06/assets/142456922/6322d87a-e938-4222-9829-d83839c45de9)
 
 </div>
