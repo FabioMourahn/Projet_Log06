@@ -132,9 +132,9 @@ Sprint | Previsão | Status|
 <div align="left">
  
 -------------------------------------------------------------------
-- [ ] SPRINT 3 | Andamento de processso e previa de conslusão
-- [ ] Conceituar Resultados
-- [ ] Dashboard Finalizado
+- [X] SPRINT 3 | Andamento de processso e previa de conslusão
+- [X] Conceituar Resultados
+- [X] Dashboard Finalizado
 
 # DASHBOARD OFICIAL para análise;
 - FUNÇÕES PARA ANALISE:
@@ -142,7 +142,7 @@ Sprint | Previsão | Status|
 https://github.com/FabioMourahn/Projet_Log06/assets/142456922/3b57b705-5d9e-4847-83a7-c780ed8fc3eb
 
 <p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_ANDAMENTO-purple"/>
+ <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-green"/>
 </p>
 
 -------------------------------------------------------------------
