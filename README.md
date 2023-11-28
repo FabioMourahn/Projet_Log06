@@ -62,7 +62,7 @@
  
 Sprint | Previsão | Status| 
 |------|--------|------|
-|00 bet | 27/09/2023 | concluído| 
+|00 beta | 27/09/2023 | concluído| 
 |01 | 18/10/2023 | concluído|
 |02|  07/11/2023| concluído | 
 |03| 28/11/2023 | concluído |
@@ -203,6 +203,8 @@ Requisitos não funcionais
 | Scrum Member |BRANDON DE ASSIS R. MATHEUS| [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-matheus-47992b1bb)[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Brandon-Matheus)|  |
 
 </div>
+
+
 
 <div align="center">
 
