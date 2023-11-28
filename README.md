@@ -78,6 +78,11 @@ Sprint | Previsão | Status|
 - [x] Github Estruturado
 - [x] Jira Estruturado
 - [X] Atribuição de Atividades do Sprint 1
+
+<p align="center">
+ <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-green"/>
+</p>
+
 -------------------------------------------------------------------
 - [X] SPRINT 1 | Conceituação e dedução do Case
 - [X] Conversação de Planilhas
@@ -88,6 +93,9 @@ Sprint | Previsão | Status|
 - [X] Atualizar GitHub
 - [X] Atualizar Jira
 
+<p align="center">
+ <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-green"/>
+</p>
 
 # Protótipo de Power Bi KPI's para análise
 
@@ -104,6 +112,10 @@ Sprint | Previsão | Status|
 - [x] Atualizar Git Hub
 - [x] Atualizar Jira
 - [x] Base para implementação de dados via Phyton
+
+<p align="center">
+ <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-green"/>
+</p>
 
 # Protótipo 2.0 Power Bi KPI's para análise
 
@@ -123,6 +135,11 @@ Sprint | Previsão | Status|
 - [ ] SPRINT 3 | Andamento de processso e previa de conslusão
 - [ ] Conceituar Resultados
 - [ ] Dashboard Finalizado
+
+<p align="center">
+ <img src="https://img.shields.io/badge/STATUS-EM_ANDAMENTO-purple"/>
+</p>
+
 -------------------------------------------------------------------
 
 </div>
@@ -187,4 +204,8 @@ Requisitos não funcionais
 
 </div>
 
+<div align="center">
 
+![Netas Academy](https://github.com/FabioMourahn/Projet_Log06/assets/142456922/be830290-02e2-484e-a970-cec6e9565f81)
+
+</div>
