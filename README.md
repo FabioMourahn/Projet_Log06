@@ -136,6 +136,11 @@ Sprint | Previsão | Status|
 - [ ] Conceituar Resultados
 - [ ] Dashboard Finalizado
 
+# DASHBOARD OFICIAL para análise;
+- FUNÇÕES PARA ANALISE:
+
+https://github.com/FabioMourahn/Projet_Log06/assets/142456922/3b57b705-5d9e-4847-83a7-c780ed8fc3eb
+
 <p align="center">
  <img src="https://img.shields.io/badge/STATUS-EM_ANDAMENTO-purple"/>
 </p>
