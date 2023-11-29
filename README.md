@@ -141,6 +141,13 @@ Sprint | Previsão | Status|
 - [X] Estrutura di Código Phyton;
 
 
+# Banco de Dados SQL para análise;
+
+![WhatsApp Image 2023-11-23 at 22 13 29](https://github.com/FabioMourahn/Projet_Log06/assets/142456922/e71fee82-8a52-4789-b9be-c6f053b420bb)
+![WhatsApp Image 2023-11-23 at 22 14 13](https://github.com/FabioMourahn/Projet_Log06/assets/142456922/776ccf05-1b30-4a31-a2a1-c8f54169b801)
+![WhatsApp Image 2023-11-23 at 22 16 24](https://github.com/FabioMourahn/Projet_Log06/assets/142456922/72e25ce0-648a-41ab-a8e3-27ac56efcf05)
+
+
 # DASHBOARD OFICIAL para análise;
 - FUNÇÕES PARA ANALISE:
 
