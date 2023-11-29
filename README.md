@@ -65,7 +65,7 @@ Sprint | Previsão | Status|
 |00 beta | 27/09/2023 | concluído| 
 |01 | 18/10/2023 | concluído|
 |02|  07/11/2023| concluído | 
-|03| 28/11/2023 | concluído |
+|03| 29/11/2023 | concluído |
 |Feira de Soluções|12/12/2023 | evento |
 </div>
 
