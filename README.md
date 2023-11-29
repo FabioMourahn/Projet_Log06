@@ -133,12 +133,12 @@ Sprint | Previsão | Status|
  
 -------------------------------------------------------------------
 - [X] SPRINT 3 | Andamento de processso e previa de conslusão
-- [x] Aprendizagem do Banco de Dados;
-- [x] Construção de Banco de dados;
-- [x] Dashboard Finalizado;
-- [x] Atualizar o Jira;
-- [x] Atualizar Github;
-- [x] Estrutura di Código Phyton;
+- [X] Aprendizagem do Banco de Dados;
+- [X] Construção de Banco de dados;
+- [X] Dashboard Finalizado;
+- [X] Atualizar o Jira;
+- [X] Atualizar Github;
+- [X] Estrutura di Código Phyton;
 
 
 # DASHBOARD OFICIAL para análise;
