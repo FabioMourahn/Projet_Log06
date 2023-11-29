@@ -133,13 +133,22 @@ Sprint | Previsão | Status|
  
 -------------------------------------------------------------------
 - [X] SPRINT 3 | Andamento de processso e previa de conslusão
-- [X] Conceituar Resultados
-- [X] Dashboard Finalizado
+- [ ] Aprendizagem do Banco de Dados;
+- [ ] Construção de Banco de dados;
+- [ ] Dashboard Finalizado;
+- [ ] Atualizar o Jira;
+- [ ] Atualizar Github;
+- [ ] Estrutura di Código Phyton;
+
 
 # DASHBOARD OFICIAL para análise;
 - FUNÇÕES PARA ANALISE:
 
 https://github.com/FabioMourahn/Projet_Log06/assets/142456922/3b57b705-5d9e-4847-83a7-c780ed8fc3eb
+
+# Minimização Phyton para análise;
+
+https://colab.research.google.com/drive/1_M84DIFFxWEd8x_RuG553LQLHLoP5_lL?usp=drive_link 
 
 <p align="center">
  <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-green"/>
